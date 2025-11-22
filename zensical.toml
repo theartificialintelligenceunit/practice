@@ -22,7 +22,7 @@ site_name = "Practice"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "The development, operations, etc., practices of the team."
+site_description = "Applied artifical intelligence, i.e., machine learning, at the Scottish Government"
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -39,7 +39,7 @@ site_url = "https://theartificialintelligenceunit.github.io/practice"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-2025 by Data Science Team / Artificial Intelligence Unit / Scottish Government
+2025, <i>Applied Artificial Intelligence/Machine Learning</i> @ Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
