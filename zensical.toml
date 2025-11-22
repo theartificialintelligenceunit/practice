@@ -16,13 +16,13 @@ repo_name = "theartificialintelligenceunit/practice"
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Practice"
+site_name = "PRACTICE"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "The development, operations, etc., practices of the team."
+site_description = "Applied artifical intelligence, i.e., machine learning, at the Scottish Government"
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -39,7 +39,7 @@ site_url = "https://theartificialintelligenceunit.github.io/practice"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-2025 by Data Science Team / Artificial Intelligence Unit / Scottish Government
+2025, <a href="https://theartificialintelligenceunit.github.io/abstracts/" target="_blank"><i>Applied Artificial Intelligence/Machine Learning</i></a> @ Scottish Government
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -72,7 +72,7 @@ nav = [
       "sections/integration-ic.md",
       "sections/integration-resources.md"
   ]},
-  { "Languages & Frameworks" = [
+  { "Languages &<br>Frameworks" = [
       "sections/languages-index.md",
       "sections/languages-etc.md"
   ]}

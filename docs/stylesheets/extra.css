@@ -60,3 +60,8 @@ div.md-sidebar--primary {
     direction: ltr;
     margin: 1em 0 1em 1.25em;
 }
+
+.md-header {
+    margin-top: 25px;
+    height: 2.5rem;
+}
