@@ -16,7 +16,7 @@ repo_name = "theartificialintelligenceunit/practice"
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Practice"
+site_name = "PRACTICE"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -72,7 +72,7 @@ nav = [
       "sections/integration-ic.md",
       "sections/integration-resources.md"
   ]},
-  { "Languages & Frameworks" = [
+  { "Languages &<br>Frameworks" = [
       "sections/languages-index.md",
       "sections/languages-etc.md"
   ]}
