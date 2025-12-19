@@ -4,7 +4,7 @@ icon: lucide/rocking-chair
 
 # Practice
 
-<p>These pages continuously outline the data science team’s operating practices vis-à-vis designing, developing, and deploying solutions; ensuring we have the same understanding of the team’s practices.</p>
+<p>These pages continuously outline the data science team’s operating practices vis-à-vis designing, developing, and delivering solutions; ensuring we have the same understanding of the team’s practices.</p>
 
 <p>In brief, this is a hub of continuously updated guidelines for</p>
 <ul class="disc">
